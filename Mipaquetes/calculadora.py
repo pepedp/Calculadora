@@ -13,6 +13,6 @@ def suma(numero1, numero2):
     return suma
 
 def resta(numero1, numero2):
-    resta = numero1 + numero2
+    resta = numero1 - numero2
     print (f"La resta es: {resta}")
     return resta
