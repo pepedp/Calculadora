@@ -6,3 +6,7 @@ def EcuacionCuadratica(a, b, c):
     print(f"X1 = {round(x1,0)}")
     print(f"X2 = {round(x2,0)}")
     return x1, x2 
+
+def suma(numero1, numero2):
+    suma = numero1 + numero2
+    return suma
