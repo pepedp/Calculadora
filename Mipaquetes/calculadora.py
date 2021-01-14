@@ -9,4 +9,5 @@ def EcuacionCuadratica(a, b, c):
 
 def suma(numero1, numero2):
     suma = numero1 + numero2
+    print (f"La suma es: {suma}")
     return suma
