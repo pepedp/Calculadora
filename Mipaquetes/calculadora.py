@@ -19,6 +19,12 @@ def resta(numero1, numero2):
 
 # Funcion para la multiplicaicon de 2 numeros 
 def multiplicacion(numero1, numero2):
-    multiplicacion = numero1 - numero2
+    multiplicacion = numero1 * numero2
     print (f"La muliplicacion es: {multiplicacion}")
     return multiplicacion
+
+# Funcion para la division de 2 numeros 
+def division(numero1, numero2):
+    division = numero1 / numero2
+    print (f"La muliplicacion es: {division}")
+    return division
