@@ -26,5 +26,5 @@ def multiplicacion(numero1, numero2):
 # Funcion para la division de 2 numeros 
 def division(numero1, numero2):
     division = numero1 / numero2
-    print (f"La muliplicacion es: {division}")
+    print (f"La division es: {round(division,2)}")
     return division
