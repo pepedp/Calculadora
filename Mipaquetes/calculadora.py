@@ -16,3 +16,8 @@ def resta(numero1, numero2):
     resta = numero1 - numero2
     print (f"La resta es: {resta}")
     return resta
+
+def multiplicacion(numero1, numero2):
+    multiplicacion = numero1 - numero2
+    print (f"La muliplicacion es: {multiplicacion}")
+    return multiplicacion
